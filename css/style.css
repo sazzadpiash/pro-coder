@@ -30,10 +30,10 @@ footer .icon-box a:hover {
 
 .accordion-item {
     border: none;
+    margin: 20px 0px;
 }
 
 .accordion-item .accordion-button{
     border: 1px solid #dbdbdb;
     border-radius: 15px !important;
-    margin: 20px 0px;
 }
