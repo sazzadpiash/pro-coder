@@ -1,3 +1,8 @@
+.carousel-caption {
+    top: 30%;
+    bottom: auto;
+}
+
 .courses img {
     width: 200px;
 }
@@ -36,4 +41,8 @@ footer .icon-box a:hover {
 .accordion-item .accordion-button{
     border: 1px solid #dbdbdb;
     border-radius: 15px !important;
+}
+
+.accordion-item ul {
+    list-style: circle;
 }
