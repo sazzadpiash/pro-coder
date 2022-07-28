@@ -3,6 +3,8 @@
     bottom: auto;
 }
 
+
+
 .courses img {
     width: 200px;
 }
@@ -44,5 +46,30 @@ footer .icon-box a:hover {
 @media screen and (max-width: 575px) {
     .courses img {
         width: 100%;
+    }
+
+    .carousel-caption {
+        top: 10%;
+        bottom: auto;
+    }
+
+    .carousel-caption h1 {
+        line-height:25px;
+        font-size: 20px;
+    }
+
+    .carousel-caption p {
+        line-height: 16px;
+        font-size: 14px;
+    }
+
+    .carousel-caption button {
+        font-size: 14px;
+    }
+
+    .slider-image {
+        height: 270px;
+        overflow: hidden;
+        width: auto !important;
     }
 }
